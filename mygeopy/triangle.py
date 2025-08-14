@@ -13,7 +13,7 @@ def hypot(a: float, b: float):
 
     Examples:
         >>> hypot(3, 4)   # <--- Also can be a test
-        5
+        5.0
     """
 
     # TODO: Need to type check inputs
